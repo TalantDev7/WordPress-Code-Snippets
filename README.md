@@ -1,2 +1,3 @@
 # WordPress
-My New Test WordPress Site
+
+WordPress code snippets that can make your job easier.
